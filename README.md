@@ -2,4 +2,4 @@
 
 First README.md file
 
-Updated for "master"
+Updated for checking "stash"
